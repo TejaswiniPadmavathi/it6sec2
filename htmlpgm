@@ -1,0 +1,46 @@
+<html dir="auto">
+<head>
+<title>heading example</title>
+</head>
+<body bgcolor="pink">
+<h1> 1</h1>
+<h2> 2</h2>
+<h3> 3</h3>
+<h4> 4</h4>
+<h5> 5</h5>
+<h6> 6</h6>
+<p>here is 1st paragragh</p>
+<p>here is 2nd paragragh</p>
+<p>hello<br>you delivered your assignment ontime<br>thanks<br>
+<center>cse dept</center>
+<hr>
+<pre>"here is" 1st paragragh
+{
+"hello world"
+}</pre>
+<pre>here is 2nd paragragh</pre>
+<p align=center style="background:red" style="fontcolor:white"> welcome to presidency university</p>
+<p align=left> welcome to presidency university</p>
+<p align=right> welcome to presidency university</p>
+<h3 title="hello html">titled</h3>
+<strike>you delivered<ins>to</ins> your assignment ontime</strike>
+<br><tt>you<del> delivered</del> your assignment ontime</tt>
+<p><br><sub>you delivered<small> your</small> assignment</sub>ontime</p>
+<p><br><sup>you delivered your</sup> <big>assignment</big> ontime</p>
+<br><em>you delivered your assignment ontime</em>
+<br><mark>you delivered your assignment ontime</mark>
+<br><strong>you delivered your assignment ontime</strong>
+<br><bdo dir="rtl">you delivered your assignment ontime</bdo>
+<br><q>you delivered your assignment ontime</q>
+<br><address>you delivered your assignment ontime</address>
+<table border="1">
+<tr><th>sl no.</th>
+<th> ref</th>
+<th rowspan="3">name</th></tr>
+<tr><td>1</td>
+<td>2</td></tr>
+<tr><td>3</td>
+<td>4</td></tr>
+<tr><th colspan="2">name</th></tr></table>
+</body>
+</html>

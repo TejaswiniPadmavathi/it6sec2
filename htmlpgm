@@ -2,18 +2,7 @@
 <head>
 <title>heading example</title>
 </head>
-<body bgcolor="pink">
-<h1>7</h1>
-<h2> 192</h2>
-<h3> 3</h3>
-lalalalaaalala
-<h6> 6</h6>
-<h1>7</h1>
-<h2> 2</h2>
-<h3> 3</h3>
-lalalalaaalala
-<h6> 6</h6>
-<p>nimajji</p>
+
 <p>here is 1st paragragh</p>
 <p>here is 2nd paragraghs</p>
 <p>hello<br>you delivered your assignment ontime<br>thanks<br>
@@ -29,8 +18,6 @@ lalalalaaalala
 <p align=right> welcome to presidency university</p>
 <h3 title="hello html">titled</h3>
 <strike>you delivered<ins>to</ins> your assignment ontime</strike>
-<br><tt>you<del> delivered</del> your assignment ontime</tt>
-<p><br><sub>you delivered<small> your</small> assignment</sub>ontime</p>
 <p><br><sup>you delivered your</sup> <big>assignment</big> ontime</p>
 <br><em>you delivered your assignment ontime</em>
 <br><mark>you delivered your assignment ontime</mark>

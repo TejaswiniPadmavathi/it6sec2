@@ -1,0 +1,94 @@
+body{
+background-image:url("/home/itsec2/Downloads/photo-1507146426996-ef05306b995a.jpeg");
+background-repeat:repeat-x;
+background-attachment:fixed;
+}
+h1,h2.bluetxt,redtxt{color:pink,red;
+font-family:bookman old style;
+text-decoration:line-through;
+font-style:italic;
+font-size:50px;
+font-weight:large;
+letter-spacing:.4em;
+margin-bottom:2em;
+text-transform:uppercase;
+border-style:dashed;
+text-shadow:5px 5px blue;
+font-variant:small-caps;
+color:white;
+padding:14px 25px;
+text-align:center;
+display:inline-block;
+}
+p.bluetxt{color:blue;
+text-align:left;}
+a.yellowtxt:visited{color:yellow;}
+a.redtxt:link{color:red;}
+a.largesize:hover{font-size:50px;}
+a.act:active{color:green;}
+p.dotted{border-style:dotted;}
+p.dashed{border-style:dashed;}
+p.mix{border-style:dotted dashed solid double;}
+p.one{
+border-style:solid;
+border-width:5px;}
+p.two{
+border-style:solid;
+border-color:green;
+}
+p.three{
+border-style:solid;
+border-color:red green blue pink;
+}
+p.frame{
+border-top-style:dotted;
+border-right-style:solid;
+border-bottom-style:dotted;
+border-left-style:solid;
+}
+p{
+border-left:6px solid red;
+background-color:pink;}
+p{margin:25px 50px 75px 100px;}
+div{
+width:300px;
+margin:auto;
+border:1px solid yellow;
+}
+div.two{
+padding-top:50px;
+padding-right:30px;
+padding-bottom:50px;
+padding-left:80px;}
+div.one{height:200px;
+width:50%;
+background-color:powderblue;
+}div.three{
+height:100px;
+width:500px;
+background-color:powderblue;
+}
+div.redtxt{
+width:300px;
+border:25px solid green;
+padding:25px;
+margin:25px;}
+li{
+display:inline;
+}
+span{
+display:block;
+}a{
+display:block;
+}
+span.ab{
+display:inline;
+width:600px;
+height:100px;
+padding:20px;
+border:3px solid blue;
+background-color:silver;
+}
+a.highlight:hover{
+color:pink;
+}

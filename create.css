@@ -1,0 +1,25 @@
+
+body{
+background-image:url("/home/itsec2/Downloads/photo-1507146426996-ef05306b995a.jpeg");
+background-repeat:no-repeat;
+}
+h1,h2.redtxt,bluetxt{color:pink,blue;
+font-family:bookman old style;
+text-decoration:line-through;
+font-style:italic;
+font-size:50px;
+font-weight:large;
+letter-spacing:.4em;
+margin-bottom:3em;
+text-transform:uppercase;
+border-style:dashed;
+text-shadow:2px 2px blue;
+font-variant:small-caps;
+}
+p.bluetxt{color:blue;
+text-align:left;}
+a.yellowtxt:visited{color:yellow;}
+a.redtxt:link{color:red;}
+a.largesize:hover{font-size:25px;}
+a.act:active{color:green;}
+

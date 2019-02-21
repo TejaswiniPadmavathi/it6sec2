@@ -1,0 +1,19 @@
+
+
+div {
+  width: 100px;
+  height: 100px;
+  background: red;
+transition: width 2s, height 2s, transform 2s;
+animation-name: example;
+  animation-duration: 4s;
+@keyframes example {
+  from {background-color: red;}
+  to {background-color: yellow;}
+}
+}
+div:hover {
+  width: 300px;
+  height: 300px;
+transform: rotate(180deg);
+}

@@ -1,0 +1,23 @@
+
+
+
+
+div.bg{
+background-image:url(/home/itsec2/Downloads/photo-1507146426996-ef05306b995a.jpeg);
+border:8px solid blue;
+}
+div.transp{
+margin:100px;
+background-color:pink;
+border:5px solid black;
+opacity:0.7;
+filter:alpha(opacity=60);
+}
+div.transp p{
+
+margin:10%;
+font-weight:bold;
+color:blue;
+
+}
+
